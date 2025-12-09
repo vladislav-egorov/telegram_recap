@@ -18,8 +18,8 @@
 ### 1. Клонирование и подготовка
 Скачайте проект и откройте папку в терминале:
 ```bash
-git clone [https://github.com/your-username/telegram-chat-rewind.git](https://github.com/your-username/telegram-chat-rewind.git)
-cd telegram-chat-rewind
+git clone https://github.com/vladislav-egorov/telegram_recap.git
+cd telegram_recap
 ```
 
 ### 2. Создание виртуального окружения (рекомендуется)
